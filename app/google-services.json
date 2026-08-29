@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537569643646",
+    "project_id": "lingualmate",
+    "storage_bucket": "lingualmate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537569643646:android:62692f2a840fac394e1c2f",
+        "android_client_info": {
+          "package_name": "com.hajizade.lingualmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537569643646-7hrtt0g8bndjkia7pf2v548u14fgv01i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUr7qt6cErUnJeoO6ylaWwzR8tm70RVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537569643646-7hrtt0g8bndjkia7pf2v548u14fgv01i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
